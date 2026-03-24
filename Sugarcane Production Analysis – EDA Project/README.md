@@ -19,12 +19,6 @@ The goal is to uncover insights into how different countries and continents cont
 
 ---
 
-## 📊 Dataset
-
-- 📄 **CSV File**: [List of Countries by Sugarcane Production](List%20of%20Countries%20by%20Sugarcane%20Production.csv)
-- 📦 **Repo**: [RepoLink](https://github.com/Varunkumar2516/Data_Analysis_Projects.git)
-
----
 
 ## 🧹 Data Cleaning
 
